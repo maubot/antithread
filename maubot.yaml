@@ -1,0 +1,6 @@
+id: xyz.maubot.antithread
+version: 1.0.0
+license: MIT
+modules:
+- antithread
+main_class: AntiThreadBot
